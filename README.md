@@ -1,7 +1,7 @@
 <p align="center"><a href="https://vuejs.org" target="_blank"><img width="100"src="https://vuejs.org/images/logo.png"></a></p>
 
-# Who use Vue.js in Japan?
-The list of companies who use Vue.js in Japan
+# Who use Vue.js in Mexico?
+The list of companies who use Vue.js in Mexico
 
 ## Companies
 
