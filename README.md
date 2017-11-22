@@ -8,7 +8,8 @@ The list of companies who use Vue.js in Mexico
 Name | Website | What we do with Vue.js
 ------------ | ------- | -------
 [SegundaMano](https://www.segundamano.mx/) | https://www.segundamano.mx/ | E-commerce Site
-[Pulpomatic](https://www.pulpomatic.com) | https://www.pulpomatic.com | Fleet Management
+[Pulpomatic](https://www.pulpomatic.com) | https://www.pulpomatic.com | Fleet Management Site
+[Cultura Colectiva](https://culturacolectiva.com) | https://culturacolectiva.com | Digital Media Site
 
 ## Awesome who-use-**-in-japan
 
