@@ -11,6 +11,7 @@ Name | Website | What we do with Vue.js
 [Pulpomatic](https://www.pulpomatic.com) | https://www.pulpomatic.com | Fleet Management
 [Cultura Colectiva](https://culturacolectiva.com) | https://culturacolectiva.com | Digital Media
 [Worky](https://worky.mx) | https://worky.mx | SaaS
+[Clip](https://clip.mx/) | https://clip.mx/ | E-commerce
 
 ## Awesome who-use-**-in-japan
 
