@@ -10,9 +10,9 @@ Name | Website | What we do with Vue.js
 [SegundaMano](https://www.segundamano.mx/) | https://www.segundamano.mx/ | E-commerce
 [Pulpomatic](https://www.pulpomatic.com) | https://www.pulpomatic.com | Fleet Management
 [Cultura Colectiva](https://culturacolectiva.com) | https://culturacolectiva.com | Digital Media
-[Worky](https://worky.mx) | https://worky.mx | SaaS
+[Worky](https://worky.mx) | https://worky.mx | SaaS
 [Clip](https://clip.mx/) | https://clip.mx/ | E-commerce
-[Vetta](http://vetta.io) | http://vetta.io | SaaS
+[Vetta](http://vetta.io) | http://vetta.io | SaaS
 
 ## Awesome who-use-**-in-japan
 
