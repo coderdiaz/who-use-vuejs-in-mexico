@@ -12,6 +12,7 @@ Name | Website | What we do with Vue.js
 [Cultura Colectiva](https://culturacolectiva.com) | https://culturacolectiva.com | Digital Media
 [Worky](https://worky.mx) | https://worky.mx | SaaS
 [Clip](https://clip.mx/) | https://clip.mx/ | E-commerce
+[Vetta](http://vetta.io) | http://vetta.io | SaaS
 
 ## Awesome who-use-**-in-japan
 
