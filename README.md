@@ -13,6 +13,7 @@ Name | Website | What we do with Vue.js
 [Worky](https://worky.mx) | https://worky.mx | SaaS
 [Clip](https://clip.mx/) | https://clip.mx/ | E-commerce
 [Vetta](http://vetta.io) | http://vetta.io | SaaS
+[Devhive](http://www.devhive.mx) | http://devhive.mx | Consulting and services
 
 ## Awesome who-use-**-in-japan
 
