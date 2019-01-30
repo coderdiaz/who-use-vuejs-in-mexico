@@ -14,6 +14,7 @@ Name | Website | What we do with Vue.js
 [Clip](https://clip.mx/) | https://clip.mx/ | E-commerce
 [Vetta](http://vetta.io) | http://vetta.io | SaaS
 [Devhive](http://www.devhive.mx) | http://devhive.mx | Consulting and services
+[Marciano Studio](http://marciano.com.mx/) | http://marciano.com.mx/ | Digital agency
 
 ## Awesome who-use-**-in-japan
 
